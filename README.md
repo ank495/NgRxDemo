@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Installing NgRx commands
+
+## Installing the store
+ng add @ngrx/store@latest
+## Installing the devtools
+ng add  @ngrx/store-devtools 
+## Installing the effects
+ng add @ngrx/effects
